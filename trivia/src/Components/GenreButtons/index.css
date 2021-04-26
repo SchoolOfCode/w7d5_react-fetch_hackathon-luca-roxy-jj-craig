@@ -1,0 +1,16 @@
+.genre-buttons button {
+  margin: 2px 2px;
+  width: 40%;
+}
+
+.genre-buttons button:focus {
+  border-style: solid;
+  background-color: rgb(173, 216, 218);
+}
+
+.genre-buttons {
+  margin: 20px 30%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

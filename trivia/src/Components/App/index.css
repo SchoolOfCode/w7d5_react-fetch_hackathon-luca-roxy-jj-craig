@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 6rem;
+  font-family: 'Roboto Mono';
+}
+
+.visible {
+  display: block;
+}
+.invisible {
+  display: none;
+}
